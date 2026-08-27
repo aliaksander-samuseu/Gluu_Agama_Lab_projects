@@ -1,1 +1,18 @@
-{}
+{
+    "Test Agama flow": {
+        "projectName": "Test Agama flow",
+        "description": "test flow",
+        "type": "community",
+        "author": "aliaksander-samuseu",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/aliaksander-samuseu/Gluu_Agama_Lab_projects",
+        "githubUri": "https://github.com/aliaksander-samuseu/Gluu_Agama_Lab_projects",
+        "license": "Apache 2",
+        "lastUpdated": "1787870403877",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
